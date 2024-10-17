@@ -1,0 +1,252 @@
+Fibonacci Sequence Checker
+Este projeto é um programa simples em Ruby que calcula a sequência de Fibonacci até um determinado limite e verifica se um número informado pertence ou não à sequência.
+
+Como funciona
+O programa solicita ao usuário que informe um número e, em seguida, verifica se esse número está na sequência de Fibonacci. Se o número pertence à sequência, uma mensagem afirmando isso será exibida; caso contrário, será informado que o número não pertence à sequência.
+
+Exemplo de Execução
+mathematica
+Copiar código
+Informe um número: 13
+13 pertence à sequência de Fibonacci.
+Requisitos
+Ruby deve estar instalado no seu sistema. Você pode verificar se o Ruby está instalado executando o seguinte comando no terminal:
+
+bash
+Copiar código
+ruby -v
+Caso não tenha o Ruby instalado, siga as instruções de instalação em: https://www.ruby-lang.org/en/documentation/installation/
+
+Como Executar o Programa
+Clone este repositório ou faça o download do arquivo fibonacci.rb no seu sistema.
+
+Navegue até o diretório onde o arquivo fibonacci.rb está localizado.
+
+Execute o programa com o seguinte comando no terminal:
+
+bash
+Copiar código
+ruby fibonacci.rb
+O programa solicitará que você insira um número. Digite o número e pressione Enter.
+
+O programa irá calcular a sequência de Fibonacci e informar se o número pertence ou não à sequência.
+
+Estrutura do Código
+O código principal está dividido em duas funções:
+
+fibonacci_sequence(limit): Gera a sequência de Fibonacci até o valor informado (limit).
+is_in_fibonacci?(number): Verifica se o número informado está na sequência gerada e exibe a mensagem correspondente.
+Como Contribuir
+Se desejar contribuir para este projeto, siga as etapas abaixo:
+
+Faça um fork deste repositório.
+
+Crie uma nova branch para sua funcionalidade ou correção:
+
+bash
+Copiar código
+git checkout -b nome-da-branch
+Adicione suas mudanças:
+
+bash
+Copiar código
+git add .
+Faça um commit com uma descrição das mudanças:
+
+bash
+Copiar código
+git commit -m "Descrição do que foi alterado"
+Envie suas mudanças para o repositório remoto:
+
+bash
+Copiar código
+git push origin nome-da-branch
+Abra um pull request para análise.
+
+Instalação do Projeto via Git
+Clone o repositório:
+
+bash
+Copiar código
+git clone <https://github.com/seu-usuario/Fibonacci> Sequence Checker
+Este projeto é um programa simples em Ruby que calcula a sequência de Fibonacci até um determinado limite e verifica se um número informado pertence ou não à sequência.
+
+Como funciona
+O programa solicita ao usuário que informe um número e, em seguida, verifica se esse número está na sequência de Fibonacci. Se o número pertence à sequência, uma mensagem afirmando isso será exibida; caso contrário, será informado que o número não pertence à sequência.
+
+Exemplo de Execução
+mathematica
+Copiar código
+Informe um número: 13
+13 pertence à sequência de Fibonacci.
+Requisitos
+Ruby deve estar instalado no seu sistema. Você pode verificar se o Ruby está instalado executando o seguinte comando no terminal:
+
+bash
+Copiar código
+ruby -v
+Caso não tenha o Ruby instalado, siga as instruções de instalação em: <https://www.ruby-lang.org/en/documentation/installation/>
+
+Como Executar o Programa
+Clone este repositório ou faça o download do arquivo fibonacci.rb no seu sistema.
+
+Navegue até o diretório onde o arquivo fibonacci.rb está localizado.
+
+Execute o programa com o seguinte comando no terminal:
+
+bash
+Copiar código
+ruby fibonacci.rb
+O programa solicitará que você insira um número. Digite o número e pressione Enter.
+
+O programa irá calcular a sequência de Fibonacci e informar se o número pertence ou não à sequência.
+
+Estrutura do Código
+O código principal está dividido em duas funções:
+
+fibonacci_sequence(limit): Gera a sequência de Fibonacci até o valor informado (limit).
+is_in_fibonacci?(number): Verifica se o número informado está na sequência gerada e exibe a mensagem correspondente.
+Como Contribuir
+Se desejar contribuir para este projeto, siga as etapas abaixo:
+
+Faça um fork deste repositório.
+
+Crie uma nova branch para sua funcionalidade ou correção:
+
+bash
+Copiar código
+git checkout -b nome-da-branch
+Adicione suas mudanças:
+
+bash
+Copiar código
+git add .
+Faça um commit com uma descrição das mudanças:
+
+bash
+Copiar código
+git commit -m "Descrição do que foi alterado"
+Envie suas mudanças para o repositório remoto:
+
+bash
+Copiar código
+git push origin nome-da-branch
+Abra um pull request para análise.
+
+Instalação do Projeto via Git
+Clone o repositório:
+
+bash
+Copiar código
+git clone <https://github.com/seu-usuario/fibonacci-sequence-checker.git>
+Navegue até o diretório do projeto:
+
+bash
+Copiar código
+cd fibonacci-sequence-checker
+Execute o programa com:
+
+bash
+Copiar código
+ruby fibonacci.rb
+Licença
+Este projeto é de código aberto e está licenciado sob os termos da licença MIT.
+
+Fibonacci Sequence Checker
+Este projeto é um programa simples em Ruby que calcula a sequência de Fibonacci até um determinado limite e verifica se um número informado pertence ou não à sequência.
+
+Como funciona
+O programa solicita ao usuário que informe um número e, em seguida, verifica se esse número está na sequência de Fibonacci. Se o número pertence à sequência, uma mensagem afirmando isso será exibida; caso contrário, será informado que o número não pertence à sequência.
+
+Exemplo de Execução
+mathematica
+Copiar código
+Informe um número: 13
+13 pertence à sequência de Fibonacci.
+Requisitos
+Ruby deve estar instalado no seu sistema. Você pode verificar se o Ruby está instalado executando o seguinte comando no terminal:
+
+bash
+Copiar código
+ruby -v
+Caso não tenha o Ruby instalado, siga as instruções de instalação em: https://www.ruby-lang.org/en/documentation/installation/
+
+Como Executar o Programa
+Clone este repositório ou faça o download do arquivo fibonacci.rb no seu sistema.
+
+Navegue até o diretório onde o arquivo fibonacci.rb está localizado.
+
+Execute o programa com o seguinte comando no terminal:
+
+bash
+Copiar código
+ruby fibonacci.rb
+O programa solicitará que você insira um número. Digite o número e pressione Enter.
+
+O programa irá calcular a sequência de Fibonacci e informar se o número pertence ou não à sequência.
+
+Estrutura do Código
+O código principal está dividido em duas funções:
+
+fibonacci_sequence(limit): Gera a sequência de Fibonacci até o valor informado (limit).
+is_in_fibonacci?(number): Verifica se o número informado está na sequência gerada e exibe a mensagem correspondente.
+Como Contribuir
+Se desejar contribuir para este projeto, siga as etapas abaixo:
+
+Faça um fork deste repositório.
+
+Crie uma nova branch para sua funcionalidade ou correção:
+
+bash
+Copiar código
+git checkout -b nome-da-branch
+Adicione suas mudanças:
+
+bash
+Copiar código
+git add .
+Faça um commit com uma descrição das mudanças:
+
+bash
+Copiar código
+git commit -m "Descrição do que foi alterado"
+Envie suas mudanças para o repositório remoto:
+
+bash
+Copiar código
+git push origin nome-da-branch
+Abra um pull request para análise.
+
+Instalação do Projeto via Git
+Clone o repositório:
+
+bash
+Copiar código
+git clone https://github.com/seu-usuario/fibonacci-sequence-checker.git
+Navegue até o diretório do projeto:
+
+bash
+Copiar código
+cd fibonacci-sequence-checker
+Execute o programa com:
+
+bash
+Copiar código
+ruby fibonacci.rb
+Licença
+Este projeto é de código aberto e está licenciado sob os termos da licença MIT.
+
+.git
+Navegue até o diretório do projeto:
+
+bash
+Copiar código
+cd fibonacci-sequence-checker
+Execute o programa com:
+
+bash
+Copiar código
+ruby fibonacci.rb
+Licença
+Este projeto é de código aberto e está licenciado sob os termos da licença MIT.
+
